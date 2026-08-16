@@ -4,6 +4,13 @@ function Hero() {
     return(
         <section className="hero" id="home">
             <div className="hero-content">
+
+                <img
+                    src="/skillforge-sf-icon.png"
+                    alt="SkillForge AI"
+                    className="hero-logo"
+                />
+
                 <p className="hero-badge">Let's Get You Hired</p>
 
                 <h1>Your AI-Powered Carrer Partner</h1>
